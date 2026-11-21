@@ -33,4 +33,4 @@ This project investigates cancer patient survival using statistical methods in R
 ## Purpose
 This project demonstrates practical application of survival analysis techniques relevant to epidemiology, biostatistics and clinical research.
 
-*Note: Results and interpretations should be added after verifying the final analysis output.*
+
